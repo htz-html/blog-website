@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-27fc7a50"],{9703:function(t,n,c){"use strict";c.r(n);var s=function(){var t=this,n=t.$createElement,c=t._self._c||n;return c("div",{staticClass:"not-fount"},[c("h1",[t._v("当前页面不存在，请检查网址是否正确")]),c("p",[c("router-link",{staticClass:"back_btn",attrs:{to:"/"}},[t._v("返回 ")])],1)])},a=[],e={},u=e,i=(c("b857"),c("2877")),o=Object(i["a"])(u,s,a,!1,null,"697c5f56",null);n["default"]=o.exports},b857:function(t,n,c){"use strict";c("dd00")},dd00:function(t,n,c){}}]);
+//# sourceMappingURL=chunk-27fc7a50.3ca416ef.js.map
